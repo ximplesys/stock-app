@@ -1,0 +1,12 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "Aplicacion de stock",
+  "main": "app.js",
+  "author": "Hernan Villegas",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
